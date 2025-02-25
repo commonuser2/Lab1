@@ -17,9 +17,10 @@
 我本来是想效仿上学期学习c时写一个冒泡排序，后来得知可以直接使用方法实现排序这一效果，经过查阅决定使用 `Collections.sort()` 方法；后来IDE提示我直接用`List.sort()`替换`Collections.sort()`，这个方法看起来更加的简便。随后使用了`for (元素类型 元素变量 : 数组或集合) { // 循环体，对每个元素执行的操作 }`这一形式输出学生姓名，这一种循环方法也是c中没有的，比较方便简洁。
 ### 运行结果展示：
 ![Lab结果](https://raw.githubusercontent.com/commonuser2/Lab1/5a8e26aea92473cce6e24d37c718890b109bcd76/Lab1%E7%BB%93%E6%9E%9C.png)
-### 遇到的
+### 遇到的困难与解决方法
+在Markdown中插入图片十分折磨，它几乎花费了等同于我编程的时间，最后终于通过
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MjEyNDQsMTY3NTk5MDMxNywtNDM1OD
-Y3NzM1LDgyNDY1MDIzMSwtNzczODg4NjkyLDIwOTExMTk1OTEs
-LTE5OTQ0MDkyMDgsNjg3OTQ0MzQ4LDY3MDg2Mzk3OF19
+eyJoaXN0b3J5IjpbLTE3MDYzMzY2MiwxNjc1OTkwMzE3LC00Mz
+U4Njc3MzUsODI0NjUwMjMxLC03NzM4ODg2OTIsMjA5MTExOTU5
+MSwtMTk5NDQwOTIwOCw2ODc5NDQzNDgsNjcwODYzOTc4XX0=
 -->
