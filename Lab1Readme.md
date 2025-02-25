@@ -16,8 +16,9 @@
 ### 成绩排序：
 我本来是想效仿上学期学习c时写一个冒泡排序，后来得知可以直接使用方法实现排序这一效果，经过查阅决定使用 `Collections.sort()` 方法；后来IDE提示我直接用`List.sort()`替换`Collections.sort()`，这个方法看起来更加的简便。随后使用了`for (元素类型 元素变量 : 数组或集合) { // 循环体，对每个元素执行的操作 }`这一形式输出学生姓名，这一种循环方法也是c中没有的，比较方便简洁。
 ### 运行结果展示：
-![Lab结果](/imgs/2025-02-25/ZSb165VRyDgrIfK5.png)
+![Lab结果](./Lab1结果)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3OTQ0MzQ4LDY3MDg2Mzk3OF19
+eyJoaXN0b3J5IjpbLTE5OTQ0MDkyMDgsNjg3OTQ0MzQ4LDY3MD
+g2Mzk3OF19
 -->
