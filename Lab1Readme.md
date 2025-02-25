@@ -22,9 +22,9 @@
 ### 运行结果展示：
 ![Lab结果](https://raw.githubusercontent.com/commonuser2/Lab1/5a8e26aea92473cce6e24d37c718890b109bcd76/Lab1%E7%BB%93%E6%9E%9C.png)
 ### 遇到的困难与解决方法
-在Markdown中插入图片是令人困惑且恼火的，它几乎花费了等同于我编程的时间，最终通过github的方式成功插入。
+在Markdown中插入图片是令人困惑且恼火的，它几乎花费了等同于我编程的时间，原因是不稳定的校园网和不稳定的github，最终通过重新链接校园网和不断刷新github的方式成功插入。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkxMDQyNiwxNjc1OTkwMzE3LC00Mz
-U4Njc3MzUsODI0NjUwMjMxLC03NzM4ODg2OTIsMjA5MTExOTU5
-MSwtMTk5NDQwOTIwOCw2ODc5NDQzNDgsNjcwODYzOTc4XX0=
+eyJoaXN0b3J5IjpbLTE1MjE0MjE0OTYsMTY3NTk5MDMxNywtND
+M1ODY3NzM1LDgyNDY1MDIzMSwtNzczODg4NjkyLDIwOTExMTk1
+OTEsLTE5OTQ0MDkyMDgsNjg3OTQ0MzQ4LDY3MDg2Mzk3OF19
 -->
